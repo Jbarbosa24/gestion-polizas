@@ -108,17 +108,6 @@ src/main/java/com/evaluacion/polizas/
 src/test/java/     Pruebas de negocio y HTTP
 ```
 
-## Publicación en GitHub
+## Repositorio
 
-Después de crear un repositorio público vacío llamado `gestion-polizas` en GitHub, ejecute en la raíz del proyecto:
-
-```bash
-git init
-git add .
-git commit -m "Implementar API de gestión de pólizas"
-git branch -M main
-git remote add origin https://github.com/TU_USUARIO/gestion-polizas.git
-git push -u origin main
-```
-
-Sustituya `TU_USUARIO` por el usuario real de GitHub y verifique que el repositorio muestre el README, las carpetas `src` y el archivo `pom.xml`. El enlace público es el que debe figurar en la entrega de la prueba.
+Código fuente: https://github.com/Jbarbosa24/gestion-polizas
